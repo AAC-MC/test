@@ -8,4 +8,4 @@ kjdghqksjg
 17:07 on va la pousser dans la branche MB now
 test MB 18:58
 ajout sur MB
-modif sur Dev
+modif sur MB avant de merger sur Dev
